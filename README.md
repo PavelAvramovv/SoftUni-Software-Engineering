@@ -1,2 +1,1 @@
-# SoftUni-Software-Engineering
-Exercises - Pavel Avramov - SoftUni
+Courses from the main program in SoftUni
