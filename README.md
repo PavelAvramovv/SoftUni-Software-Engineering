@@ -15,6 +15,8 @@
 <tr>
   <th> C# </th>
   <th> PHP </th>
+  <th> Java</th>
+  <th> Python</th>
 </tr>
 
 <tr>
@@ -30,6 +32,19 @@
 |**Course**|**Link**| 
 |---|---|
 |<a href="https://softuni.bg/trainings/2300/programming-basics-with-php-march-2019"> Programming Basics with PHP - March 2019 </a>| <a href="https://softuni.bg/certificates/details/66240/473b9540"> Link</a> |
+
+
+<td>
+
+|**Course**|**Link**| 
+|---|---|
+|<a href="https://softuni.bg/trainings/3067/programming-basics-with-java-october-2020"> Programming Basics with Java - October 2020 </a>| <a href="#"> Soon</a> |
+
+<td>
+
+|**Course**|**Link**| 
+|---|---|
+|<a href="https://softuni.bg/trainings/3073/programming-basics-with-python-november-2020"> Programming Basics with Python - October 2020 </a>| <a href="#"> Soon</a> |
 
 </td>
 
