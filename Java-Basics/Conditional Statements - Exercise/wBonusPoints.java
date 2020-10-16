@@ -7,23 +7,23 @@ public class wBonusPoints {
         Scanner scanner = new Scanner(System.in);
         int startPoints = Integer.parseInt(scanner.nextLine());
         double bonusPoints =0;
+
+
         if (startPoints <= 100){
             bonusPoints = 5;
 
             }
-        else if (startPoints >100){
-            bonusPoints = startPoints*0.20;
-
+        else if (startPoints >1000){
+            bonusPoints = startPoints*0.1;
         }
-        else if (startPoints>100){
-            bonusPoints = startPoints*0.10;
-
+      else{
+            bonusPoints = startPoints*0.2;
         }
         if (startPoints %2 ==0) {
-            bonusPoints +=1;
+            bonusPoints =bonusPoints+1;
         }
        else if (startPoints%10 == 5){
-           bonusPoints=+2;
+           bonusPoints= bonusPoints +2;
         }
        System.out.println(bonusPoints);
        System.out.println(startPoints+bonusPoints);
