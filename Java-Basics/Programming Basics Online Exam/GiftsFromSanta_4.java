@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GiftsFromSanta{
+public class GiftsFromSanta_4{
 
 
     public static void main(String[] args) {
